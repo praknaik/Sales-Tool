@@ -8,6 +8,7 @@ public class Main {
 		displayGreetings();
 		data.display();	
 		System.out.println("Test 1 \n");
+		System.out.println("Test 123 \n");
 	}
 
 	private static void displayGreetings() {
