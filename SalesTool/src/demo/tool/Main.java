@@ -6,16 +6,13 @@ public class Main {
 		
 		SalesData data = new SalesData();
 		displayGreetings();
-		data.display();
-		
-		
+		data.display();	
+		System.out.println("Test 1 \n");
 	}
-
 
 	private static void displayGreetings() {
 		System.out.println("First GIT project \n");
-		System.out.println("This App shows sales data \n");
-	
+		System.out.println("This App shows sales data \n");	
 	}
 	
 }
